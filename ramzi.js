@@ -1,4 +1,4 @@
-const endDate = new Date('2023-05-01T00:00:00Z');
+const endDate = new Date('2023-03-01T00:00:00Z');
       
       // Calculate the remaining days until the end date
       function getRemainingDays() {
